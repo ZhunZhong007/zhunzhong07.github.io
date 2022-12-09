@@ -9,6 +9,7 @@ display_categories: [Assistant Professor, Postdoc, PhD Students]
 horizontal: false
 ---
 
+
 <!-- pages/people.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}

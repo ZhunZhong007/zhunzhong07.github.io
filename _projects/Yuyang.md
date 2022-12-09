@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Mingxuan Liu
+title: Yuyang Zhao
         
 description1: PhD student
-description2: University of Trento
-description3: Novel Class Discovery, Incremental Learning
+description2: National University of Singapore
+description3: Domain Generalization, Novel Class Discovery
 description4:
-img: assets/img/mingxuan.png
-redirect: /people
+img: assets/img/yuyang.png
+redirect: http://yuyangzhao.com/
 importance: 1
 category: PhD Students
 ---
