@@ -235,7 +235,7 @@ scholar:
 
   last_name: [Zhong]
   first_name: [Zhun, Z.]
-  website: [zhunzhong.site]
+  website: [/]
 
   style: apa
   locale: en
@@ -258,7 +258,7 @@ scholar:
   query: "@*"
 
 # Filter out certain bibtex entry keywords used internally from the bib output
-filtered_bibtex_keywords: [note, abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
+filtered_bibtex_keywords: [link1_url, link1_name, note, abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit: 5  # leave blank to always show all authors

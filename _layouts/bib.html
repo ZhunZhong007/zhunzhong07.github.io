@@ -40,12 +40,15 @@
 
           {%- for author in entry.author_array limit: author_array_limit -%}
             {%- assign author_is_self = false -%}
+<!--            {%- assign author_last_name_original = author.last -%}-->
             {%- assign author_last_name = author.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" -%}
+<!--            {%- assign author_last_name = author.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" -%}-->
             {%- if site.scholar.last_name contains author_last_name -%}
               {%- if site.scholar.first_name contains author.first -%}
                 {%- assign author_is_self = true -%}
               {%- endif -%}
             {%- endif -%}
+
             {%- assign coauthor_url = nil -%}
             {%- if site.data.coauthors[author_last_name] -%}
               {%- for coauthor in site.data.coauthors[author_last_name] -%}
@@ -159,7 +162,22 @@
             <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
           {%- endif %}
           {%- if entry.code %}
-            <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
+            <a href="{{ entry.code}}" class="btn btn-sm z-depth-0" role="button">Code</a>
+          {%- endif %}
+          {%- if entry.link1_url %}
+            <a href="{{ entry.link1_url}}" class="btn btn-sm z-depth-0" role="button">{{ entry.link1_name }}</a>
+          {%- endif %}
+          {%- if entry.link2_url %}
+            <a href="{{ entry.link2_url}}" class="btn btn-sm z-depth-0" role="button">{{ entry.link2_name }}</a>
+          {%- endif %}
+            {%- if entry.link3_url %}
+            <a href="{{ entry.link3_url}}" class="btn btn-sm z-depth-0" role="button">{{ entry.link3_name }}</a>
+          {%- endif %}
+            {%- if entry.link4_url %}
+            <a href="{{ entry.link4_url}}" class="btn btn-sm z-depth-0" role="button">{{ entry.link4_name }}</a>
+          {%- endif %}
+            {%- if entry.link5_url %}
+            <a href="{{ entry.link5_url}}" class="btn btn-sm z-depth-0" role="button">{{ entry.link5_name }}</a>
           {%- endif %}
           {%- if entry.poster %}
             {% if entry.poster contains '://' -%}
