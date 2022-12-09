@@ -1,20 +1,23 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
-nav_order: 2
-display_categories: [work, fun]
+title: People
+permalink: /people/
+description:
+nav: true
+nav_order: 1
+display_categories: [Assistant Professor, Postdoc, PhD Students]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/people.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
+  <br>
+  <br>
+  <h3 class="category">{{ category }}</h3>
+  <hr />
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
@@ -56,3 +59,18 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
+
+
+<br/><br/> 
+### Long-term Collaborators
+---------------------------------------------------------------
+
+##### Dr. Hong Liu @ NII
+
+##### Prof. Zhiming Luo @ XMU
+
+##### Dr. Feng Liu @ UoM
+
+<br>
+<br>
+<br>
