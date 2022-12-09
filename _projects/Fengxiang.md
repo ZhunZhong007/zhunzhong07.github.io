@@ -2,7 +2,7 @@
 layout: page
 title: Fengxiang Yang
         
-description1: PhD student
+description1: PhD student (Co-supervised)
 description2: University of Trento & Xiamen University
 description3: Person Re-identification, Domain Adaptation, Federated Learning
 description4:

@@ -2,7 +2,7 @@
 layout: page
 title: Yongguo Ling
         
-description1: PhD student
+description1: PhD student (Co-supervised)
 description2: Xiamen University
 description3: Person Re-identification, Cross-Modality Learning
 description4:

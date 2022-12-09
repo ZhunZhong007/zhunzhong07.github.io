@@ -2,7 +2,7 @@
 layout: page
 title: Yuyang Zhao
         
-description1: PhD student
+description1: PhD student (Co-supervised)
 description2: National University of Singapore
 description3: Domain Generalization, Novel Class Discovery
 description4:

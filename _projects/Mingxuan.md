@@ -2,7 +2,7 @@
 layout: page
 title: Mingxuan Liu
         
-description1: PhD student
+description1: PhD student (Co-supervised)
 description2: University of Trento
 description3: Novel Class Discovery, Incremental Learning
 description4:
