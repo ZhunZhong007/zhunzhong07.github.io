@@ -7,6 +7,8 @@
       value: 14th March 1879
     - name: Languages
       value: English, German
+    - name: WebSite
+      value: zhunzhong.site
 
 - title: Education
   type: time_table

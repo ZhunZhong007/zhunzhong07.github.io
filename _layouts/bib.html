@@ -61,7 +61,8 @@
               {%- if forloop.last and author_array_limit == author_array_size -%}and&nbsp;{%- endif -%}
             {%- endif -%}
             {%- if author_is_self -%}
-              <em>{{author.first}} {{author.last}}</em>
+<!--                <b style="color:blue"><em>{{author.first}} {{author.last}}</em></b>-->
+                    <a href="{{site.scholar.website}}"><b>{{author.first}} {{author.last}}</b></a>
             {%- else -%}
               {%- if coauthor_url -%}
                 <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
@@ -195,5 +196,11 @@
             {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}
           </div>
           {%- endif %}
+          {% if entry.note %}
+          <div style="color: #FFC000;"><p class="periodical font-italic"><i class="fa fa-solid fa-star"></i> {{entry.note}}!</p></div>
+          {% endif %}
+          {% if entry.citation %}
+          <div style="color: #FFC000;"><p class="periodical font-italic"><i class="fa fa-solid fa-star"></i> {{entry.citation}}!</p></div>
+          {% endif %}
         </div>
       </div>
