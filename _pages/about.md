@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 <p>--------------------------------------------------------------------------------------------------------</p>
 
-**<font size=6> About Me </font>**1
+**<font size=6> About Me </font>**12
 
 **Experience:** I am currently an Assistant Professor at the University of Trento (UNITN). I was a Postdoc at UNITN from 2020-2022 under the supervision of Prof. Nicu Sebe. I received my Ph.D. degree in 2019 from the Cognitive Science Department at Xiamen University under the supervision of Prof. Shaozi Li . I was also a joint Ph.D. student in 2017-2019 at University of Technology Sydney under the co-supervision of Prof. Yi Yang and Dr. Liang Zheng. I received the M.S. Degree in Computer Science and Technology in 2015 from China University Of Petroleum, Qingdao, China. I received the B.S. degree from the Information Engineering Department, from East China University of Technology in 2012.
 
