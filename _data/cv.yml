@@ -111,10 +111,12 @@
         - ICCV
         - ECCV
         - NeurIPS
-        - AAAI
-        - ACM MM
         - ICML
         - ICLR
+        - AAAI
+        - IJCAI
+        - ACM MM
+
     - title: Journal Reviewer
       items:
         - IEEE TPAMI
