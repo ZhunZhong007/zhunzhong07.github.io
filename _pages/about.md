@@ -4,7 +4,7 @@ title: Home
 permalink: /
 subtitle: >
   <p>--------------------------------------------------------------------------------------------------------</p>
-  <p>Asssistant Professor</p>
+  <p>Assistant Professor</p>
   <p>Department of Information Engineering and Computer Science</p>
   <p>University of Trento</p>
 
