@@ -95,7 +95,6 @@
         - Semantic Segmentation
         - Medical Imaging
 
-
 - title: Professional Activity
   type: nested_list
   contents:
@@ -105,6 +104,11 @@
           - ACM MM 2022 (Area Chair)
           - ACM MM 2022 (Open Souce Competition Chair)
           - IJCAI 2021
+    - title: Associate Editor
+      items:
+          - Image and Visual Computing
+          - International Journal of Applied Earth Observation and Geoinformation (Special Issue)
+          - Electronics (Special Issue)
     - title: Conference Program Committee
       items:
         - CVPR
