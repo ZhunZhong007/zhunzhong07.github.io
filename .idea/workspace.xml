@@ -6,31 +6,6 @@
       <change afterPath="$PROJECT_DIR$/others/SI/css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/others/SI/icon_github.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/others/SI/iconize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/img/100_Driver_Licensing.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/img/100driver-intro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/img/100driver-statics.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/img/TITS_100_Driver.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/img/camstyle_abs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/img/googledrive.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/img/ncl_abs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/img/ncl_framework.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/img/ncl_hard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/img/ncl_results.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/img/ncl_thumb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/img/ncl_tsne.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/img/openmix_abs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/img/openmix_framework.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/img/openmix_pdf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/img/openmix_results.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/img/openmix_thumb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/img/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/img/specification.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/img/uno_framework.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/img/uno_result_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/img/uno_result_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/img/uno_result_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/img/uno_thumb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/img/uno_tsne.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/others/SI/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/others/SI/paper.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/others/SI/prettify.js" afterDir="false" />
@@ -98,7 +73,7 @@
       <workItem from="1676830327825" duration="1403000" />
       <workItem from="1676920871620" duration="305000" />
       <workItem from="1679578243093" duration="24000" />
-      <workItem from="1680917686172" duration="2362000" />
+      <workItem from="1680917686172" duration="2713000" />
     </task>
     <servers />
   </component>
