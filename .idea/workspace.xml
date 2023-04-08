@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50d35bc1-a4af-4854-a598-9fe2773962d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/others/SI/code.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/icon_github.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/iconize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/paper.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/prettify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/SI/project.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/others/SI/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/others/SI/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,15 +33,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "true",
-    "last_opened_file_path": "/Users/sky/Desktop/mycode/zhunzhong007.github.io/others/SI",
+    "last_opened_file_path": "/Users/sky/Desktop/mycode/zhunzhong007.github.io/_news",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/others/SI" />
       <recent name="$PROJECT_DIR$/_news" />
+      <recent name="$PROJECT_DIR$/others/SI" />
       <recent name="$PROJECT_DIR$/_projects" />
       <recent name="$PROJECT_DIR$/_includes" />
       <recent name="$PROJECT_DIR$" />
@@ -73,7 +66,7 @@
       <workItem from="1676830327825" duration="1403000" />
       <workItem from="1676920871620" duration="305000" />
       <workItem from="1679578243093" duration="24000" />
-      <workItem from="1680917686172" duration="2713000" />
+      <workItem from="1680917686172" duration="3585000" />
     </task>
     <servers />
   </component>
