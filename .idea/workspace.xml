@@ -2,7 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50d35bc1-a4af-4854-a598-9fe2773962d2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/icon_github.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/iconize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/img/100_Driver_Licensing.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/img/100driver-intro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/img/100driver-statics.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/img/TITS_100_Driver.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/img/camstyle_abs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/img/googledrive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/img/ncl_abs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/img/ncl_framework.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/img/ncl_hard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/img/ncl_results.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/img/ncl_thumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/img/ncl_tsne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/img/openmix_abs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/img/openmix_framework.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/img/openmix_pdf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/img/openmix_results.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/img/openmix_thumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/img/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/img/specification.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/img/uno_framework.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/img/uno_result_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/img/uno_result_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/img/uno_result_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/img/uno_thumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/img/uno_tsne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/paper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/prettify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/SI/project.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,18 +65,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "true",
-    "last_opened_file_path": "/Users/sky/Desktop/mycode/zhunzhong007.github.io/_news",
+    "last_opened_file_path": "/Users/sky/Desktop/mycode/zhunzhong007.github.io/others/SI",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/others/SI" />
       <recent name="$PROJECT_DIR$/_news" />
       <recent name="$PROJECT_DIR$/_projects" />
       <recent name="$PROJECT_DIR$/_includes" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/_pages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/img" />
@@ -62,7 +95,10 @@
       <workItem from="1672391632529" duration="281000" />
       <workItem from="1673870209010" duration="13000" />
       <workItem from="1675934006949" duration="403000" />
-      <workItem from="1676830327825" duration="1205000" />
+      <workItem from="1676830327825" duration="1403000" />
+      <workItem from="1676920871620" duration="305000" />
+      <workItem from="1679578243093" duration="24000" />
+      <workItem from="1680917686172" duration="2362000" />
     </task>
     <servers />
   </component>
