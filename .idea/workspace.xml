@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="50d35bc1-a4af-4854-a598-9fe2773962d2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/announcement_10.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/announcement_10.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/others/SI/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/others/SI/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,20 +29,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "true",
-    "last_opened_file_path": "/Users/sky/Desktop/mycode/zhunzhong007.github.io/_pages",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sky/Desktop/mycode/zhunzhong007.github.io/_news&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_pages" />
       <recent name="$PROJECT_DIR$/_news" />
+      <recent name="$PROJECT_DIR$/_pages" />
       <recent name="$PROJECT_DIR$/others/SI" />
       <recent name="$PROJECT_DIR$/_projects" />
       <recent name="$PROJECT_DIR$/_includes" />
@@ -67,6 +68,8 @@
       <workItem from="1676920871620" duration="305000" />
       <workItem from="1679578243093" duration="24000" />
       <workItem from="1680917686172" duration="4994000" />
+      <workItem from="1681196399985" duration="660000" />
+      <workItem from="1681199420964" duration="1338000" />
     </task>
     <servers />
   </component>
