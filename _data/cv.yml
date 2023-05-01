@@ -66,6 +66,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2023
+      items:
+        - AI 2000 Most Inﬂuential Scholar Honorable Mention in AAAI/IJCAI
     - year: 2022
       items: 
         - AI 2000 Most Inﬂuential Scholar Honorable Mention in AAAI/IJCAI
@@ -106,9 +109,10 @@
           - IJCAI 2021
     - title: Associate Editor
       items:
+          - International Journal of Computer Vision (Guest Editor for Special Issue)
           - Image and Visual Computing
-          - International Journal of Applied Earth Observation and Geoinformation (Special Issue)
-          - Electronics (Special Issue)
+          - International Journal of Applied Earth Observation and Geoinformation (Guest Editor for Special Issue)
+          - Electronics (Guest Editor for Special Issue)
     - title: Conference Program Committee
       items:
         - CVPR
@@ -124,6 +128,7 @@
     - title: Journal Reviewer
       items:
         - IEEE TPAMI
+        - IJCV
         - IEEE TIP
         - TMLR
         - IEEE TCSVT
