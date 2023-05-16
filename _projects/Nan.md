@@ -2,8 +2,8 @@
 layout: page
 title: Dr. Nan Pu
         
-description1: Postdoc (Coming Soon)
-description2: Leiden University & University of Trento
+description1: Postdoc
+description2: University of Trento
 description3: Person Re-identification, Lifelong Learning, Novel Class Discovery
 description4:
 img: assets/img/nan.png
