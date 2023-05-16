@@ -9,7 +9,7 @@ description4:
 img: assets/img/yuyang.png
 redirect: http://yuyangzhao.com/
 importance: 1
-category: PhD Students
+category: _
 ---
 
 Every project has a beautiful feature showcase page.
