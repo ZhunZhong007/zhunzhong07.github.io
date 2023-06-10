@@ -29,4 +29,4 @@ social: true  # includes social icons at the bottom of the page
 **Research Interests:** I commit to designing robust and scalable visual recognition systems for real-world applications. To achieve this goal, I mainly focus on the areas of data augmentation, unsupervised/semi- supervised learning, domain generalization, domain adaptation and novel class discovery, and investigate their advantages in visual tasks, such as object retrieval, image classification, semantic segmentation, etc.
 
 <span style="color:orangered"> **Join Us:** Our group ([MHUG](http://mhug.disi.unitn.it/)
- led by Prof. Nicu Sebe) is looking for highly-motivated Postdoc/Ph.D. students; we also welcome visiting students. Drop me an email if you are interested.</span>
+ led by Prof. Nicu Sebe) is looking for highly-motivated Postdoc/Ph.D. students; we also welcome visiting students/research assistant. Drop me an email if you are interested.</span>
