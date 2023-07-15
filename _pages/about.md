@@ -28,7 +28,7 @@ social: true  # includes social icons at the bottom of the page
 
 **Research Interests:** I commit to designing robust and scalable visual recognition systems for real-world applications. To achieve this goal, I mainly focus on the areas of data augmentation, unsupervised/semi- supervised learning, domain generalization, domain adaptation and novel class discovery, and investigate their advantages in visual tasks, such as object retrieval, image classification, semantic segmentation, etc.
 
-<span style="color:orangered"> **Join Us:** I am looking for highly-motivated Ph.D. students strarting from September 2024; I also welcom visiting students/research assistant.</span>
+<span style="color:orangered"> **Join Us:** I am looking for highly-motivated Ph.D. students strarting from September 2024; I also welcome visiting students/research assistant.</span>
 
 <span style="color:orangered">I am also a guest researcher UNITN ([MHUG](http://mhug.disi.unitn.it/) led by Prof. Nicu Sebe), where we are hiring highly-motivated Postdoc/Ph.D. students/visiting students/research assistant.
 </span>
