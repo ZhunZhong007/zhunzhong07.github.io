@@ -53,8 +53,12 @@
   type: time_table
   contents:
     - title: Assistant Professor
+      institution: University of Nottingham
+      year: 2023-now
+
+    - title: Assistant Professor
       institution: University of Trento
-      year: 2022-now
+      year: 2022-2023
 
     - title: Postdoc
       institution: University of Trento
@@ -106,10 +110,10 @@
   contents:
     - title: Area Chair / Senior Program Committee
       items:
-          - AAAI 2022
+          - AAAI 2022 (SPC)
           - ACM MM 2022 (Area Chair)
           - ACM MM 2022 (Open Souce Competition Chair)
-          - IJCAI 2021
+          - IJCAI 2021 (SPC)
     - title: Associate Editor
       items:
           - International Journal of Computer Vision (Guest Editor for Special Issue)
@@ -136,3 +140,5 @@
         - TMLR
         - IEEE TCSVT
         - IEEE TMM
+        - IEEE TNNLS
+        - IEEE TITS
