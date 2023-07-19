@@ -33,5 +33,5 @@ social: true  # includes social icons at the bottom of the page
 <span style="color:orangered">I am also a guest researcher at UNITN ([MHUG](http://mhug.disi.unitn.it/) led by Prof. Nicu Sebe), in which we are hiring highly-motivated Postdoc/Ph.D. students/visiting students/research assistant.
 </span>
 
-<span style="color:orangered">Drop me an email if you are interested in the above positions. Please use the subject format [Name_Position_AppliedUniversity]. For example, [Jack_PhD_UoN], [Mike_Postdoc_UNITN]. [[Chinese Advertisement](https://docs.google.com/document/d/1gWJzTcjLEhGIzI1WVF3qVYgyEvJocynrIZW54IsleHk/edit?usp=sharing)]
+<span style="color:orangered">Drop me an email if you are interested in the above positions. Please use the subject format [Name_Position_AppliedUniversity]. For example, [Jack_PhD_UoN], [Mike_Postdoc_UNITN]. [[Chinese Version](https://docs.google.com/document/d/1gWJzTcjLEhGIzI1WVF3qVYgyEvJocynrIZW54IsleHk/edit?usp=sharing)]
 </span>
