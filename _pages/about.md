@@ -28,10 +28,10 @@ social: true  # includes social icons at the bottom of the page
 
 **Research Interests:** I commit to designing robust and scalable visual recognition systems for real-world applications. To achieve this goal, I mainly focus on the areas of data augmentation, unsupervised/semi- supervised learning, domain generalization, domain adaptation and novel class discovery, and investigate their advantages in visual tasks, such as object retrieval, image classification, semantic segmentation, etc.
 
-<span style="color:orangered"> **Join Us:** I am looking for highly-motivated Ph.D. students strarting from September 2024; I also welcome visiting students/research assistant.</span>
+<span style="color:orangered"> **Join Us:** I am looking for highly-motivated Ph.D. students starting from September 2024; I also welcome visiting students/research assistant.</span>
 
 <span style="color:orangered">I am also a guest researcher at UNITN ([MHUG](http://mhug.disi.unitn.it/) led by Prof. Nicu Sebe), in which we are hiring highly-motivated Postdoc/Ph.D. students/visiting students/research assistant.
 </span>
 
-<span style="color:orangered">Drop me an email if you are interested in the above positions. Please use the subject format [Name_Position_AppliedUniversity]. For example, [Jack_PhD_UoN], [Mike_Postdoc_UNITN]. [[Chinese Version](https://docs.google.com/document/d/1gWJzTcjLEhGIzI1WVF3qVYgyEvJocynrIZW54IsleHk/edit?usp=sharing)]
+<span style="color:orangered">Drop me an email if you are interested in the above positions. Please use the subject format [Name_Position_AppliedUniversity]. For example, [Jack_PhD_UoN], [Mike_Postdoc_UNITN]. [[English Version](https://docs.google.com/document/d/1vCVwxdrqd4mnP8J6ZuB9sspYlbiHyqo3MQvJwzYvO9M/edit?usp=sharing)] [[Chinese Version](https://docs.google.com/document/d/1gWJzTcjLEhGIzI1WVF3qVYgyEvJocynrIZW54IsleHk/edit?usp=sharing)]
 </span>
