@@ -73,6 +73,7 @@ horizontal: false
 <br/><br/> 
 ### Long-term Collaborators
 ---------------------------------------------------------------
+##### Prof. Nicu Sebe @ UNITN
 
 ##### Dr. Hong Liu @ NII
 
