@@ -6,7 +6,7 @@ description1: PhD student (Co-supervised)
 description2: Hefei University of Technology
 description3: Action Recognition
 description4:
-img: assets/img/pic_boy.png
+img: assets/img/yan.png
 redirect: https://zhunzhong.site/people/
 importance: 1
 category: PhD Students
