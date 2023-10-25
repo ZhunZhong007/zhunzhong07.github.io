@@ -6,7 +6,7 @@ description1: Master student
 description2: Harbin Institute of Technology
 description3: Novel Class Discovery
 description4:
-img: assets/img/pic_boy.png
+img: assets/img/haiyang.png
 redirect: https://zhunzhong.site
 importance: 1
 category: Visiting Students
