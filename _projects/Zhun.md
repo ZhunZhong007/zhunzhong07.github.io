@@ -3,7 +3,7 @@ layout: page
 title: Dr. Zhun Zhong 
         
 description1: Assistant Professor
-description2: University of Trento
+description2: University of Nottingham
 description3: Computer Vision and Machine Learning
 description4:
 img: assets/img/prof_pic.png
