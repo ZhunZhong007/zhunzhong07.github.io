@@ -6,7 +6,7 @@ description1: PhD student (Co-supervised)
 description2: University of Trento & Xidian University
 description3: Semantic Segmentation, Domain Adaptation
 description4:
-img: assets/img/pic_boy.png
+img: assets/img/dong.jpg
 redirect: https://zhunzhong.site
 importance: 1
 category: PhD Students
