@@ -6,8 +6,8 @@ description1: Master student
 description2: Chinese Academy of Sciences, Shenzhen -> Hong Kong Baptist University
 description3: Out-of-Distribution Detection
 description4:
-img: assets/img/pic_boy.png
-redirect: https://zhunzhong.site
+img: assets/img/chentaocao.png
+redirect: https://scholar.google.com/citations?user=vZPl_oQAAAAJ&hl=en
 importance: 1
 category: Visiting Students
 ---
