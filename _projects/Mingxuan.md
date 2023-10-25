@@ -7,7 +7,7 @@ description2: University of Trento
 description3: Novel Class Discovery, Incremental Learning
 description4:
 img: assets/img/mingxuan.png
-redirect: /people
+redirect: https://scholar.google.com/citations?user=egL5-LsAAAAJ&hl=zh-CN&oi=ao
 importance: 1
 category: PhD Students
 ---
