@@ -7,7 +7,7 @@ description2: Hong Kong Baptist University
 description3: Federated Learning
 description4:
 img: assets/img/pic_boy.png
-redirect: https://zhunzhong.site
+redirect: https://zhunzhong.site/people/
 importance: 1
 category: PhD Students
 ---

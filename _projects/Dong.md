@@ -7,7 +7,7 @@ description2: University of Trento & Xidian University
 description3: Semantic Segmentation, Domain Adaptation
 description4:
 img: assets/img/dong.jpg
-redirect: https://zhunzhong.site
+redirect: https://zhunzhong.site/people/
 importance: 1
 category: PhD Students
 ---
