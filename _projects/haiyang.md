@@ -9,7 +9,7 @@ description4:
 img: assets/img/haiyang.png
 redirect: https://zhunzhong.site/people/
 importance: 1
-category: Visiting Students
+category: Master Students
 ---
 
 Every project has a beautiful feature showcase page.

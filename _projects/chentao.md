@@ -9,7 +9,7 @@ description4:
 img: assets/img/chentaocao.jpg
 redirect: https://scholar.google.com/citations?user=vZPl_oQAAAAJ&hl=en
 importance: 1
-category: Visiting Students
+category: Master Students
 ---
 
 Every project has a beautiful feature showcase page.
