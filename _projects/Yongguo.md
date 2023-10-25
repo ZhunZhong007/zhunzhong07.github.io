@@ -9,7 +9,7 @@ description4:
 img: assets/img/yongguo.png
 redirect: https://zhunzhong.site/people
 importance: 1
-category: PhD Students
+category: Ex-Members
 ---
 
 Every project has a beautiful feature showcase page.

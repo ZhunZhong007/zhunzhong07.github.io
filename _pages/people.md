@@ -63,6 +63,14 @@ horizontal: false
 
 
 <br/><br/> 
+### Ex-Members
+---------------------------------------------------------------
+
+##### Dr. Yongguo Ling @ Assistant Professor, Guangxi University
+
+
+
+<br/><br/> 
 ### Long-term Collaborators
 ---------------------------------------------------------------
 
