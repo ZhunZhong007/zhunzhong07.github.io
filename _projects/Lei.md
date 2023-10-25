@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Chentao Cao
+title: Lei Shen
         
-description1: Master student
-description2: Chinese Academy of Sciences, Shenzhen -> Hong Kong Baptist University
-description3: Out-of-Distribution Detection
+description1: PhD student (Co-supervised)
+description2: Hong Kong Baptist University
+description3: Federated Learning
 description4:
 img: assets/img/pic_boy.png
 redirect: https://zhunzhong.site
 importance: 1
-category: Visiting Students
+category: PhD Students
 ---
 
 Every project has a beautiful feature showcase page.
