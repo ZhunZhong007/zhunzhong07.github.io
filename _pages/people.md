@@ -5,7 +5,7 @@ permalink: /people/
 description:
 nav: true
 nav_order: 1
-display_categories: [Assistant Professor, Postdoc, PhD Students]
+display_categories: [Assistant Professor, Postdoc, PhD Students, Visiting Students]
 horizontal: false
 ---
 
