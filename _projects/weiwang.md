@@ -2,14 +2,14 @@
 layout: page
 title: Wei Wang
         
-description1: PhD student (Co-supervised)
+description1: Master student (Co-supervised)
 description2: Western University
 description3: Domain Adaptation
 description4:
 img: assets/img/weiwang.png
 redirect: https://sites.google.com/view/waybaba
 importance: 1
-category: PhD Students
+category: Master Students
 ---
 
 Every project has a beautiful feature showcase page.
