@@ -12,7 +12,7 @@ horizontal: false
 
 <!-- pages/people.md -->
 <br/><br/> 
-### Lab for Intelligence and VisiON (LION)
+# Lab for Intelligence and VisiON (LION)
 ---------------------------------------------------------------
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
