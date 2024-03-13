@@ -12,7 +12,7 @@ horizontal: false
 
 <!-- pages/people.md -->
 <br/><br/> 
-# <span style="color: #6495ED;">L</span>ab for <span style="color: #6495ED;">I</span>ntelligence and Visi<span style="color: #6495ED;">ON</span> (<span style="color: #6495ED;">LION</span>)
+# <strong style="color: #6495ED;">L</strong>ab for <strong style="color: #6495ED;">I</strong>ntelligence and Visi<strong style="color: #6495ED;">ON</strong> (<strong style="color: #6495ED;">LION</strong>)
 
 
 ---------------------------------------------------------------
