@@ -12,7 +12,9 @@ horizontal: false
 
 <!-- pages/people.md -->
 <br/><br/> 
-# Lab for Intelligence and VisiON (LION)
+# <span style="color: #6495ED;">L</span>ab for <span style="color: #6495ED;">I</span>ntelligence and Visi<span style="color: #6495ED;">ON</span> (<span style="color: #6495ED;">LION</span>)
+
+
 ---------------------------------------------------------------
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
