@@ -14,7 +14,7 @@ horizontal: false
 <br/><br/> 
 # <strong style="color: #6495ED;">L</strong>ab for <strong style="color: #6495ED;">I</strong>ntelligence and Visi<strong style="color: #6495ED;">ON</strong> (<strong style="color: #6495ED;">LION</strong>)
 
-<img title="a title" alt="" src="/others/SI/img/logo-new.pdf">
+<img title="a title" alt="" src="/others/SI/img/logo-new.jpg">
 
 ---------------------------------------------------------------
 <div class="projects">
