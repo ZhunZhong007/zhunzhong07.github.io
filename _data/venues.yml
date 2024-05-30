@@ -20,7 +20,8 @@
 "ARXIV":
   color: "#FFBE33"
 
-
+"ICML":
+  color: "#00369f"
 
 "PhysRev":
   url: https://journals.aps.org/
