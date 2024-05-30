@@ -14,8 +14,6 @@ horizontal: false
 <br/><br/> 
 # <strong style="color: #6495ED;">L</strong>ab for <strong style="color: #6495ED;">I</strong>ntelligence and Visi<strong style="color: #6495ED;">ON</strong> (<strong style="color: #6495ED;">LION</strong>)
 
-<img title="a title" alt="" src="/others/SI/img/logo-new.jpg" width="555" height="255">
-
 ---------------------------------------------------------------
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
